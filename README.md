@@ -1,4 +1,4 @@
-# Package maneger support files
+# Package manager support files
 
 Carthage, etc.
 
