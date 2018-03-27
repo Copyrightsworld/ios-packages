@@ -6,10 +6,17 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		8541A0B5206A05B1004BA20A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8541A0B6206A060B004BA20A /* crashlytics.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = crashlytics.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		8541A0AE206A059D004BA20A = {
 			isa = PBXGroup;
 			children = (
+				8541A0B5206A05B1004BA20A /* README.md */,
+				8541A0B6206A060B004BA20A /* crashlytics.json */,
 			);
 			sourceTree = "<group>";
 		};
