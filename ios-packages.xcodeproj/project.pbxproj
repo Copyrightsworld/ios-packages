@@ -12,6 +12,7 @@
 		856C216A20C8F09B00393997 /* parsesdk.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = parsesdk.json; sourceTree = "<group>"; };
 		856C216B20C8F15F00393997 /* parseui.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = parseui.json; sourceTree = "<group>"; };
 		856C216C20C8F63000393997 /* binaries */ = {isa = PBXFileReference; lastKnownFileType = folder; path = binaries; sourceTree = "<group>"; };
+		856C217620C8FCB600393997 /* twitterkit.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = twitterkit.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -23,6 +24,7 @@
 				8541A0B6206A060B004BA20A /* crashlytics.json */,
 				856C216A20C8F09B00393997 /* parsesdk.json */,
 				856C216B20C8F15F00393997 /* parseui.json */,
+				856C217620C8FCB600393997 /* twitterkit.json */,
 			);
 			sourceTree = "<group>";
 		};
