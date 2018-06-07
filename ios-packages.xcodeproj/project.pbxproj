@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		8541A0B5206A05B1004BA20A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8541A0B6206A060B004BA20A /* crashlytics.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = crashlytics.json; sourceTree = "<group>"; };
+		856C216A20C8F09B00393997 /* parsesdk.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = parsesdk.json; sourceTree = "<group>"; };
+		856C216B20C8F15F00393997 /* parseui.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = parseui.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +19,8 @@
 			children = (
 				8541A0B5206A05B1004BA20A /* README.md */,
 				8541A0B6206A060B004BA20A /* crashlytics.json */,
+				856C216A20C8F09B00393997 /* parsesdk.json */,
+				856C216B20C8F15F00393997 /* parseui.json */,
 			);
 			sourceTree = "<group>";
 		};
